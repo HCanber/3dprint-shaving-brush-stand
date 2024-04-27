@@ -7,7 +7,7 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 This is a 3D printable model of a shaving brush stand.
-This repository contains the Fusion 360 file: [ShavingBrushStand.f3d](ShavingBrushStand.f3d)
+This repository contains the Fusion 360 file: [Download](raw/main/ShavingBrushStand.f3d)
 
 ### Printable files
 
