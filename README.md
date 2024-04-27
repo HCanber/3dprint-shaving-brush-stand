@@ -1,5 +1,19 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+# Shaving Brush Stand
+
+[![Shaving Brush Stand](readme-content/shaving-brush-stand.jpg)](ShavingBrushStand.f3d)
+This is a 3D model of a shaving brush stand.
+This repository contains the Fusion 360 file: [ShavingBrushStand.f3d](ShavingBrushStand.f3d)
+
+The model is parameterized, so you can easily adjust the dimensions to fit your brush. The most important parameters are:
+
+| Parameter | Default | Description |
+| --- | ---:| --- |
+| `ringInnerDiameter` | 30 mm | The inner diameter of the ring. This is where the brush hangs and it roughly be should be diameter of your brush minus 2-4 mm |
+| `ringOpeningWidth` | 25 mm | The width of the opening in the ring. This should be a the width of where the bristles are attached plus 4 mm. |
+| `height` | 65 mm | The height of the stand. This should be the length of the bristles plus 10 mm. |
+
 ## License
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
