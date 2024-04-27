@@ -1,13 +1,11 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 # Shaving Brush Stand
 
 [![Shaving Brush Stand](readme-content/shaving-brush-stand.jpg)](readme-content/shaving-brush-stand.jpg)
 
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]<br>[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 This is a 3D printable model of a shaving brush stand.
-This repository contains the Fusion 360 file: [Download](raw/main/ShavingBrushStand.f3d)
+This repository contains the Fusion 360 file: [Download](https://raw.githubusercontent.com/HCanber/3dprint-shaving-brush-stand/main/ShavingBrushStand.f3d)
 
 ### Printable files
 
@@ -57,4 +55,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: readme-content/cc-by-nc-sa.svg
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-Creative%20Commons%20BY--NC--SA%204.0-lightgrey.svg
