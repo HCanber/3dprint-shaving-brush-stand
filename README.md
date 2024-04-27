@@ -29,13 +29,16 @@ The model is parameterized, so you can easily adjust the dimensions to fit your 
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
-BY: credit must be given to the creator.
-NC: Only noncommercial uses of the work are permitted.
-SA: Adaptations must be shared under the same terms.
+**BY**: credit must be given to the creator.
+
+**NC**: Only noncommercial uses of the work are permitted.
+
+**SA**: Adaptations must be shared under the same terms.
 
 ### You are free to
 
 **Share** – copy and redistribute the material in any medium or format
+
 **Adapt** – remix, transform, and build upon the material
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
